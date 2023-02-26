@@ -2,9 +2,7 @@
 
 """
 @project: 001-paper_classification
-@author: heibai
 @file: data_explore.py
-@ide: PyCharm
 @time 2022/12/8 20:41
 """
 import pandas as pd
